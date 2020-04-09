@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'Camera27438', human_name: 'Camera', access_route: 'Camera27438', icon: 'camera'},
 { name: 'CalendarView27437', human_name: 'Calendar View', access_route: 'CalendarView27437', icon: 'calendar'},
 { name: 'Maps27436', human_name: 'Maps', access_route: 'Maps27436', icon: 'map'},
 { name: 'Tutorial27435', human_name: 'Tutorial', access_route: 'Tutorial27435', icon: 'question-circle'},
