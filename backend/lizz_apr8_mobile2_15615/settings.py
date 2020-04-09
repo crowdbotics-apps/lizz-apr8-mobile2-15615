@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django.contrib.sites",
+    "event",
 ]
 LOCAL_APPS = [
     "home",
